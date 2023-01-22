@@ -5,4 +5,4 @@ packages - If you use pacman as your package manager (Arch-based distro users), 
 all your installed packages as well as their version and dependencies and will output this to a csv file
 for easy reading.
 
-vpn - is a open pm script being worked on
+vpn - an openvpn script being worked on
