@@ -6,3 +6,5 @@ all your installed packages as well as their version and dependencies and will o
 for easy reading.
 
 vpn - an openvpn script being worked on
+
+subs - uses alass to retime all subtitles in a given folder based on source video of the same name
