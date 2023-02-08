@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the document directory
-cd ~/Documents
+cd ~/todo
 
 # Define the file formats to try
 formats=(".ods" ".xls" ".xlsx" ".csv" ".tsv")
