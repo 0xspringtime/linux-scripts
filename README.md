@@ -9,4 +9,4 @@ vpn - an openvpn script being worked on
 
 subs - uses alass to retime all subtitles in a given folder based on source video of the same name
 
-zipdel - unzips all zip files in a folder then deletes zip files
+zipdel - unzips all zip files in a folder then deletes all zip files
