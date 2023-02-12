@@ -11,11 +11,16 @@ fi
 directory=$1
 
 # Unzip all zip files in the directory
-for zipfile in "$directory"/*.zip
+for archive in "$directory"/*.zip "$directory"/*.7z
 do
-    unzip "$zipfile" -d "$directory"
+    if [ "${archive##*.}" = "zip" ]
+    then
+        unzip "$archive" -d "$directory"
+    elif [ "${archive##*.}" = "7z" ]
+    then
+        7z x "$archive" -o"$directory"
+    fi
 done
 
 # Delete all zip files in the directory
-rm "$directory"/*.zip
-
+rm "$directory"/*.zip "$directory"/*.7z
