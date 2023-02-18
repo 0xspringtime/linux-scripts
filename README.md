@@ -5,10 +5,10 @@ packages - If you use pacman as your package manager (Arch-based distro users), 
 all your installed packages as well as their version and dependencies and will output this to a csv file
 for easy reading.
 
-vpn - an openvpn script being worked on
+subs - uses alass to retime all subtitles in a given folder based on source video of the same name
 
 todo - moves to my todo directory and opens a given file in libreoffice calc
 
-subs - uses alass to retime all subtitles in a given folder based on source video of the same name
+vpn - an openvpn script being worked on
 
 zipdel - unzips all zip/7z files in a folder then deletes all zip/7z files
