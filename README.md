@@ -7,6 +7,8 @@ for easy reading.
 
 vpn - an openvpn script being worked on
 
+todo - moves to my todo directory and opens a given file in libreoffice calc
+
 subs - uses alass to retime all subtitles in a given folder based on source video of the same name
 
 zipdel - unzips all zip/7z files in a folder then deletes all zip/7z files
