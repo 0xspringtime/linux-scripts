@@ -1,0 +1,4 @@
+remove last word: %s/\s*\w\+\s*$//
+remove multiple period lines and line above: g/\.\d\+\./-1,.d
+turn chapter into relative link: %s/^\(\d\+\)\.\(\d\+\)\s\+\(.*\)/[\1.\2 \3](.\/\1\/\2\/n.md)/g
+turn single digit into double digit: %s/\/\(\d\)\//\/0\1\//g
