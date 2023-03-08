@@ -13,4 +13,6 @@ todo - moves to my todo directory and opens a given file in libreoffice calc
 
 vpn - an openvpn script being worked on
 
+xrandr - my xrandr configuration
+
 zipdel - unzips all zip/7z files in a folder then deletes all zip/7z files
