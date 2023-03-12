@@ -5,6 +5,8 @@ git - git commit script
 
 img - adds copied image to current directory
 
+leadzeros4 - renaming script
+
 packages - If you use pacman as your package manager (Arch-based distro users), will obtain a list of 
 all your installed packages as well as their version and dependencies and will output this to a csv file
 for easy reading.
