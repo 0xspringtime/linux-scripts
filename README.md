@@ -5,7 +5,7 @@ git - git commit script
 
 img - adds copied image to current directory
 
-leadzeros4 - renaming script
+leadzeros4 - changes name of all 1-3 digit namefiles in a directory to a 4 digit name by adding zeros
 
 packages - If you use pacman as your package manager (Arch-based distro users), will obtain a list of 
 all your installed packages as well as their version and dependencies and will output this to a csv file
