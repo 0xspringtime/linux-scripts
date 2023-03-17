@@ -17,6 +17,8 @@ subs - uses alass to retime all subtitles in a given folder based on source vide
 
 todo - moves to my todo directory and opens a given file in libreoffice calc
 
+vimcommands - list of useful vim macros
+
 vpn - an openvpn script being worked on
 
 xrandr - my xrandr configuration
