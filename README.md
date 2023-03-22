@@ -1,5 +1,5 @@
 # linux-scripts
-A set of useful scripts I use on my machine
+A set of useful scripts I use on my machine with description
 
 git - git commit script
 
