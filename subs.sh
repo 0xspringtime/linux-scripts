@@ -20,7 +20,7 @@ do
     if [ -f "$subtitle" ]
     then
       # run the alass command
-      alass-cli "$file" "$subtitle" "$folder/$filename.output.srt"
+      alass-cli "$file" "$subtitle" "$folder/$filename.srt"
     fi
   fi
 done
