@@ -1,0 +1,1 @@
+split -l 25 yourfile.txt dir/ -da 2 --additional-suffix=.txt
